@@ -1,2 +1,14 @@
 instagram/node_modules
 instagram/package-lock.json
+
+discord/node_modules
+discord/package-lock.json
+
+facebook/node_modules
+facebook/package-lock.json
+
+github/node_modules
+github/package-lock.json
+
+twitter/node_modules
+twitter/package-lock.json

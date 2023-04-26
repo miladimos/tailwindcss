@@ -5,6 +5,7 @@
     "tailwindcss": "^3.3.2"
   },
   "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/styles.css -o ./dist/css/styles.css --watch",
     "watch-css": "postcss src/css/styles.css -o dist/css/styles.css -w",
     "build-css": "cross-env ENV_BUILD=prod postcss src/css/main.css -o dist/css/style.css"
   },
